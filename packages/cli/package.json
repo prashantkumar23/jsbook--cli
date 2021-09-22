@@ -1,5 +1,5 @@
 {
-  "name": "jsbook--cli",
+  "name": "@prashantkumar23/jsbook--cli",
   "version": "1.0.3",
   "description": "",
   "bin": "dist/index.js",
@@ -26,5 +26,5 @@
     "esbuild": "0.8.26",
     "typescript": "^4.1.3"
   },
-  "gitHead": "8a47a31eaadad7d006da10748b7f1bfd70cd82d7"
+  "gitHead": "e565b83578d36bdccd18630a05be3f1756cd6368"
 }
