@@ -11,7 +11,6 @@ const App = () => {
     <Provider store={store}>
       <div>
         <CellList />
-        <React.Fragment></React.Fragment>
       </div>
     </Provider>
   );
