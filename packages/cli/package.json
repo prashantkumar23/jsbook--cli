@@ -1,6 +1,6 @@
 {
   "name": "jsbook--cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsbook--cli/local-client": "^1.0.2"
+    "@jsbook--cli/local-client": "^1.0.3"
   },
   "devDependencies": {
-    "@jsbook--cli/local-api": "^1.0.2",
+    "@jsbook--cli/local-api": "^1.0.3",
     "@types/node": "^14.14.22",
     "commander": "^7.0.0",
     "esbuild": "0.8.26",
