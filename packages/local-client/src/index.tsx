@@ -4,12 +4,14 @@ import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
 import { store } from "./state";
 import CellList from "./components/cell-list";
+import React from "react";
 
 const App = () => {
   return (
     <Provider store={store}>
       <div>
         <CellList />
+        <React.Fragment></React.Fragment>
       </div>
     </Provider>
   );
