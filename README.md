@@ -32,3 +32,4 @@
 8. Sleek UI
 9. Deployed app on NPM registry, where others can easily use it
    and many more...
+10. Auto-save
